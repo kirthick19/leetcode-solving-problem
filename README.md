@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0096-unique-binary-search-trees) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0043-multiply-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0096-unique-binary-search-trees) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
