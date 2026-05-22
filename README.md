@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0089-gray-code) |
 ## Backtracking
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0056-merge-intervals) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
