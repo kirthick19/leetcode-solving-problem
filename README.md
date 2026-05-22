@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0089-gray-code) |
 ## Backtracking
@@ -37,4 +38,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
