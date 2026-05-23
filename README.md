@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0056-merge-intervals) |
 | [0090-subsets-ii](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0134-gas-station](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0134-gas-station) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
