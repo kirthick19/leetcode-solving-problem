@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0043-multiply-strings) |
+| [0087-scramble-string](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0087-scramble-string) |
 ## Simulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
