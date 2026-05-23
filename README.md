@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0056-merge-intervals) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0096-unique-binary-search-trees) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0096-unique-binary-search-trees) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Linked List
 |  |
@@ -74,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kirthick19/leetcode-solving-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
